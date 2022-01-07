@@ -1,0 +1,176 @@
+Vulnerable Web Applications
+BadStore	http://www.badstore.net/
+BodgeIt Store	http://code.google.com/p/bodgeit/
+Butterfly Security Project	http://thebutterflytmp.sourceforge.net/
+bWAPP	http://www.mmeit.be/bwapp/
+http://sourceforge.net/projects/bwapp/files/bee-box/
+Commix	https://github.com/stasinopoulos/commix-testbed
+CryptOMG	https://github.com/SpiderLabs/CryptOMG
+Damn Vulnerable Node Application (DVNA)	https://github.com/quantumfoam/DVNA/
+Damn Vulnerable Web App (DVWA)	http://www.dvwa.co.uk/
+Damn Vulnerable Web Services (DVWS)	http://dvws.professionallyevil.com/
+Drunk Admin Web Hacking Challenge	https://bechtsoudis.com/work-stuff/challenges/drunk-admin-web-hacking-challenge/
+Exploit KB Vulnerable Web App	http://exploit.co.il/projects/vuln-web-app/
+Foundstone Hackme Bank	http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx
+Foundstone Hackme Books	http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx
+Foundstone Hackme Casino	http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx
+Foundstone Hackme Shipping	http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx
+Foundstone Hackme Travel	http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx
+GameOver	http://sourceforge.net/projects/null-gameover/
+hackxor	http://hackxor.sourceforge.net/cgi-bin/index.pl
+Hackazon	https://github.com/rapid7/hackazon
+LAMPSecurity	http://sourceforge.net/projects/lampsecurity/
+Moth	http://www.bonsai-sec.com/en/research/moth.php
+NOWASP / Mutillidae 2	http://sourceforge.net/projects/mutillidae/
+OWASP BWA	http://code.google.com/p/owaspbwa/
+OWASP Hackademic	http://hackademic1.teilar.gr/
+OWASP SiteGenerator	https://www.owasp.org/index.php/Owasp_SiteGenerator
+OWASP Bricks	http://sourceforge.net/projects/owaspbricks/
+OWASP Security Shepherd	https://www.owasp.org/index.php/OWASP_Security_Shepherd
+PentesterLab	https://pentesterlab.com/
+PHDays iBank CTF	http://blog.phdays.com/2012/05/once-again-about-remote-banking.html
+SecuriBench	http://suif.stanford.edu/~livshits/securibench/
+SentinelTestbed	https://github.com/dobin/SentinelTestbed
+SocketToMe	http://digi.ninja/projects/sockettome.php
+sqli-labs	https://github.com/Audi-1/sqli-labs
+MCIR (Magical Code Injection Rainbow)	https://github.com/SpiderLabs/MCIR
+sqlilabs	https://github.com/himadriganguly/sqlilabs
+VulnApp	http://www.nth-dimension.org.uk/blog.php?id=88
+PuzzleMall	http://code.google.com/p/puzzlemall/
+WackoPicko	https://github.com/adamdoupe/WackoPicko
+WAED	http://www.waed.info
+WebGoat.NET	https://github.com/jerryhoff/WebGoat.NET/
+WebSecurity Dojo	http://www.mavensecurity.com/web_security_dojo/
+XVWA	https://github.com/s4n7h0/xvwa
+Zap WAVE	http://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip
+
+Vulnerable Operating System Installations
+21LTR	http://21ltr.com/scenes/
+Damn Vulnerable Linux	http://sourceforge.net/projects/virtualhacking/files/os/dvl/
+exploit-exercises - nebula, protostar, fusion	http://exploit-exercises.com/download
+heorot: DE-ICE, hackerdemia	http://hackingdojo.com/downloads/iso/De-ICE_S1.100.iso
+http://hackingdojo.com/downloads/iso/De-ICE_S1.110.iso
+http://hackingdojo.com/downloads/iso/De-ICE_S1.120.iso
+http://hackingdojo.com/downloads/iso/De-ICE_S2.100.iso
+hackerdemia - http://hackingdojo.com/downloads/iso/De-ICE_S1.123.iso
+Holynix	http://sourceforge.net/projects/holynix/files/
+Kioptrix	http://www.kioptrix.com/blog/
+LAMPSecurity	http://sourceforge.net/projects/lampsecurity/
+Metasploitable	http://sourceforge.net/projects/virtualhacking/files/os/metasploitable/
+neutronstar	http://neutronstar.org/goatselinux.html
+PenTest Laboratory	http://pentestlab.org/lab-in-a-box/
+Pentester Lab	https://www.pentesterlab.com/exercises
+pWnOS	http://www.pwnos.com/
+RebootUser Vulnix	http://www.rebootuser.com/?page_id=1041
+SecGame # 1: Sauron	http://sg6-labs.blogspot.co.uk/2007/12/secgame-1-sauron.html
+scriptjunkie.us	http://www.scriptjunkie.us/2012/04/the-hacker-games/
+UltimateLAMP	http://www.amanhardikar.com/mindmaps/practice-links.html
+TurnKey Linux	http://www.turnkeylinux.org/
+Bitnami	https://bitnami.com/stacks
+Elastic Server	http://elasticserver.com
+OS Boxes	http://www.osboxes.org
+VirtualBoxes	http://virtualboxes.org/images/
+VirtualBox Virtual Appliances	https://virtualboximages.com/
+CentOS	http://www.centos.org/
+Default Windows Clients	https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise
+https://dev.windows.com/en-us/microsoft-edge/tools/vms/
+Default Windows Server	https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-technical-preview
+Default VMWare vSphere	http://www.vmware.com/products/vsphere/
+
+Sites for Downloading Older Versions of Various Software
+Exploit-DB	http://www.exploit-db.com/
+Old Apps	http://www.oldapps.com/
+Old Version	http://www.oldversion.com/
+VirtualHacking Repo	sourceforge.net/projects/virtualhacking/files/apps%40realworld/
+
+Sites by Vendors of Security Testing Software
+Acunetix acuforum	http://testasp.vulnweb.com/
+Acunetix acublog	http://testaspnet.vulnweb.com/
+Acunetix acuart	http://testphp.vulnweb.com/
+Cenzic crackmebank	http://crackme.cenzic.com
+HP freebank	http://zero.webappsecurity.com
+IBM altoromutual	http://demo.testfire.net/
+Mavituna testsparker	http://aspnet.testsparker.com
+Mavituna testsparker	http://php.testsparker.com
+NTOSpider Test Site	http://www.webscantest.com/
+
+Sites for Improving Your Hacking Skills
+Embedded Security CTF	https://microcorruption.com
+EnigmaGroup	http://www.enigmagroup.org/
+Escape	http://escape.alf.nu/
+Google Gruyere	http://google-gruyere.appspot.com/
+Gh0st Lab	http://www.gh0st.net/
+Hack This Site	http://www.hackthissite.org/
+HackThis	http://www.hackthis.co.uk/
+HackQuest	http://www.hackquest.com/
+Hack.me	https://hack.me
+Hacking-Lab	https://www.hacking-lab.com
+Hacker Challenge	http://www.dareyourmind.net/
+Hacker Test	http://www.hackertest.net/
+hACME Game	http://www.hacmegame.org/
+Halls Of Valhalla	http://halls-of-valhalla.org/beta/challenges
+Hax.Tor	http://hax.tor.hu/
+OverTheWire	http://www.overthewire.org/wargames/
+PentestIT	http://www.pentestit.ru/en/
+CSC Play on Demand	https://pod.cybersecuritychallenge.org.uk/
+pwn0	https://pwn0.com/home.php
+RootContest	http://rootcontest.com/
+Root Me	http://www.root-me.org/?lang=en
+Security Treasure Hunt	http://www.securitytreasurehunt.com/
+Smash The Stack	http://www.smashthestack.org/
+SQLZoo	http://sqlzoo.net/hack/
+TheBlackSheep and Erik	http://www.bright-shadows.net/
+ThisIsLegal	http://thisislegal.com/
+Try2Hack	http://www.try2hack.nl/
+WabLab	http://www.wablab.com/hackme
+XSS: Can You XSS This?	http://canyouxssthis.com/HTMLSanitizer/
+XSS Game	https://xss-game.appspot.com/
+XSS: ProgPHP	http://xss.progphp.com/
+
+CTF Sites / Archives
+CAPTF Repo	http://captf.com/
+CTFtime (Details of CTF Challenges)	http://ctftime.org/ctfs/
+CTF write-ups repository	https://github.com/ctfs
+Reddit CTF Announcements	http://www.reddit.com/r/securityctf
+shell-storm Repo	http://shell-storm.org/repo/CTF/
+VulnHub	https://www.vulnhub.com
+
+Mobile Apps
+Damn Vulnerable Android App (DVAA)	https://code.google.com/p/dvaa/
+Damn Vulnerable FirefoxOS Application (DVFA)	https://github.com/pwnetrationguru/dvfa/
+Damn Vulnerable iOS App (DVIA)	http://damnvulnerableiosapp.com/
+ExploitMe Mobile Android Labs	http://securitycompass.github.io/AndroidLabs/
+ExploitMe Mobile iPhone Labs	http://securitycompass.github.io/iPhoneLabs/
+Hacme Bank Android	http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx
+InsecureBank	http://www.paladion.net/downloadapp.html
+NcN Wargame	http://noconname.org/evento/wargame/
+OWASP iGoat	http://code.google.com/p/owasp-igoat/
+OWASP Goatdroid	https://github.com/jackMannino/OWASP-GoatDroid-Project
+
+Lab
+binjitsu	https://github.com/binjitsu/binjitsu
+CTFd	https://github.com/isislab/CTFd
+Mellivora	https://github.com/Nakiami/mellivora
+NightShade	https://github.com/UnrealAkama/NightShade
+MCIR	https://github.com/SpiderLabs/MCIR
+Docker	https://www.docker.com/
+Vagrant	https://www.vagrantup.com/
+NETinVM	http://informatica.uv.es/~carlos/docencia/netinvm/
+SmartOS	https://smartos.org/
+SmartDataCenter	https://github.com/joyent/sdc
+vSphere Hypervisor	https://www.vmware.com/products/vsphere-hypervisor/
+GNS3	http://sourceforge.net/projects/gns-3/
+OCCP	https://opencyberchallenge.net/
+XAMPP	https://www.apachefriends.org/index.html
+
+Miscellaneous
+VulnVPN	http://www.rebootuser.com/?page_id=1041
+VulnVoIP	http://www.rebootuser.com/?page_id=1041
+Vulnserver	http://www.thegreycorner.com/2010/12/introducing-vulnserver.html
+NETinVM	http://informatica.uv.es/~carlos/docencia/netinvm/
+DVRF	https://github.com/praetorian-inc/DVRF
+HackSys Extreme Vulnerable Driver	http://www.payatu.com/hacksys-extreme-vulnerable-driver/
+VirtuaPlant	https://github.com/jseidl/virtuaplant
+Fosscomm	https://github.com/nikosdano/fosscomm
+Morning Catch	http://blog.cobaltstrike.com/2014/08/06/introducing-morning-catch-a-phishing-paradise/
+AWBO	https://labs.snort.org/awbo/awbo.html
