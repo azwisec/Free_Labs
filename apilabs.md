@@ -9,3 +9,9 @@
 | [Generic-University](https://github.com/InsiderPhD/Generic-University) | Vulnerable API with Laravel App |
 | [VAmPI](https://github.com/erev0s/VAmPI)| Vulnerable REST API with OWASP top 10 vulnerabilities for APIs |
 | [Websheep](https://github.com/marmicode/websheep) | Websheep is an app based on a willingly vulnerable ReSTful APIs. |
+
+
+GraphQL https://github.com/twseptian/graphql-security-labs
+
+Triedfull API https://github.com/payatu/Tiredful-API/
+
