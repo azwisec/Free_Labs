@@ -1,5 +1,5 @@
 # Free_Labs
-# Editor.md
+
 Welcome to Vulnerable Labs, your playground for mastering Application vulnerabilities! Dive into a virtual environment meticulously crafted to simulate a myriad of security loopholes and weaknesses commonly found in Applications. Here, you'll embark on a journey to enhance your understanding and sharpen your skills in identifying, exploiting, and mitigating Application vulnerabilities.
 
 ![](https://raw.githubusercontent.com/azwisec/freelabs/main/files/Leaky-Buckets-2022.webp)
